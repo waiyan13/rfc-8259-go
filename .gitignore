@@ -1,0 +1,3 @@
+# Local session trackers. Never commit.
+.claude/
+tasks/
